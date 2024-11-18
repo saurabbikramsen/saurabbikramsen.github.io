@@ -112,7 +112,7 @@ function App() {
                 power seamless, data-driven applications.
               </p>
               <button className="text-md px-4 py-4 w-2/6 border border-[#64FFDA] text-[#64FFDA] rounded hover:bg-[#64FFDA]/10 transition-colors">
-                check out my cv!
+                check out my cv!!
               </button>
             </div>
           </motion.div>
