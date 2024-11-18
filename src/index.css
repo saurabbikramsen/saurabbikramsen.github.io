@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: "Calibre", "Inter", "San Francisco", "SF Pro Text", -apple-system,
+    system-ui, sans-serif;
+  --fz-xl: 20px;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--fz-xl);
+}
